@@ -40,7 +40,7 @@ social-auth-app-django==1.2.0
 social-auth-core==1.4.0
 strict-rfc3339==0.7
 swagger-spec-validator==2.1.0
-ujson==1.35
+ujson==5.4.0
 urllib3==1.24.2
 vine==1.1.4
 webcolors==1.7
